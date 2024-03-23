@@ -1,5 +1,5 @@
 // object with type define
-// Exaple 1
+// Example 1
 type Book = {
     title: string;
     author: string;
